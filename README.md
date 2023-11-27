@@ -8,8 +8,10 @@ In response to the marketing team's objective of creating thematic campaigns tai
 Leveraging insights from the User Dataset, detailing registered user information, and the Daily User Transaction Dataset, offering user-level mutual fund balances, the primary goal is to conduct a strategic segmentation analysis. This analysis aims to identify distinct user groups based on their profiles and transactional behaviors. Subsequently, personalized thematic campaigns will be recommended for each segment, considering individual investment preferences and risk tolerances associated with different mutual fund types. The overarching objective is to enhance user engagement, satisfaction, and informed decision-making through targeted and compelling campaigns.
 
 ## Data Collection
+This dataset comprises two Indonesian mutual funds: the User Dataset, containing information about registered users on the platform, and the Daily User Transaction Dataset, which provides information on user-level mutual fund balances.
 
 ## Pre-Processing
+This project involves two main steps: Milestone 1 and Milestone 2. Milestone 1 mainly focuses on data cleaning, which includes checking values and typos, converting data types, handling missing values, removing duplicates, and more. After the cleaning process, exploratory data analysis is performed. Milestone 2, on the other hand, involves clustering, summary, and recommendation.
 
 ## Conclusion
 From the descriptive analysis above, we can conclude:
